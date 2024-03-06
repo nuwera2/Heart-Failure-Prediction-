@@ -1,0 +1,1 @@
+The purpose of this project is to utilize a regression model to predict the presence of heart disease in patients,and to conduct an analysis of the significance of the features in predicting heart disease.
